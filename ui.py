@@ -100,7 +100,7 @@ class MyMenu():
         root.config(menu=self.menubar)
 
     def my_about(self):
-        messagebox.showinfo('关于', '关于相关！')  # 消息提示框
+        messagebox.showinfo('作者相关', 'github地址：https://github.com/qianbin01/moviedown')  # 消息提示框
         pass
 
 
